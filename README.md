@@ -7,3 +7,4 @@
 |Mottel Zirkind|mottelz|N/A|
 |Krishna Saparia|krishna-saparia|2010146
 |Franklin Ukaegbu|frankilymon|1930227|
+|Kanvi Savani|kanvisavani-discordbot|2010167|
