@@ -4,4 +4,6 @@
 |name|github name|student id|
 |----|-----|----|
 |Bhavana|Bhavana pediyala|2010008|
-
+|Mottel Zirkind|mottelz|N/A|
+|Krishna Saparia|krishna-saparia|2010146
+|Franklin Ukaegbu|frankilymon|1930227|
