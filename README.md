@@ -4,3 +4,4 @@
 |name|github name|student id|
 |----|-----|----|
 |Mottel Zirkind|mottelz|N/A|
+|Heriz Patel|Herizpatel|2010177|
