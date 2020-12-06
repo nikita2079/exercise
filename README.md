@@ -4,3 +4,4 @@
 |name|github name|student id|
 |----|-----|----|
 |Mottel Zirkind|mottelz|N/A|
+|Khush Patel|khush2712|2010331|
