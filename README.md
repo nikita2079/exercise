@@ -3,4 +3,4 @@
 
 |name|github name|student id|
 |----|-----|----|
-|Mottel Zirkind|mottelz|N/A|
+|Girish Kothamasu|gk1227|2010062|
