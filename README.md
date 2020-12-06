@@ -16,3 +16,4 @@
 |Kanvi Savani|kanvisavani-discordbot|2010167|
 |Banoth Narjot Singh|narjot|1910294|
 |Khushi Patel|Khushi2712|2010372|
+|Vikram Kumar|BrutalVik|2010199|
