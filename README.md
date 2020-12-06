@@ -4,3 +4,4 @@
 |name|github name|student id|
 |----|-----|----|
 |Mottel Zirkind|mottelz|N/A|
+|Franklin Ukaegbu|frankilymon|1930227|
