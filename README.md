@@ -4,6 +4,7 @@
 
 |name|github name|student id|
 |----|-----|----|
+|Khush Patel|khush2712|2010331|
 |saisivani yerramsetty|saisivani|2010085|
 |Peri Patel | Peri2312|2010283
 |Girish Kothamasu|gk1227|2010062|
