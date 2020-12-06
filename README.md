@@ -4,4 +4,4 @@
 |name|github name|student id|
 |----|-----|----|
 |Mottel Zirkind|mottelz|N/A|
-Peri Patel , Peri2312,2010283
+Peri Patel | Peri2312| 2010283
