@@ -4,6 +4,7 @@
 
 |name|github name|student id|
 |----|-----|----|
+|Girish Kothamasu|gk1227|2010062|
 |Abhishek Kajla||AbhiKajla| 1930453|
 |Manoj Kumar Ganta|manoj2218|2010127|
 |Nagarjuna Reddy Kolli|Nanikolli|2010149|
@@ -12,3 +13,4 @@
 |Franklin Ukaegbu|frankilymon|1930227|
 |Kanvi Savani|kanvisavani-discordbot|2010167|
 |Banoth Narjot Singh|narjot|1910294|
+
